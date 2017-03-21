@@ -41,13 +41,17 @@ location where line interest X axis - X point.
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
 
-![image2]: ./test_images/solidWhiteCurve_after.jpg
-![image3]: ./test_images/solidWhiteRight_after.jpg
-![image4]: ./test_images/solidYellowCurve_after.jpg
-![image5]: ./test_images/solidYellowCurve2_after.jpg
-![image6]: ./test_images/solidYellowLeft_after.jpg
-![image7]: ./test_images/whiteCarLaneSwitch_after.jpg
+[image2]: ./test_images/solidWhiteCurve_after.jpg
+[image3]: ./test_images/solidWhiteRight_after.jpg
+[image4]: ./test_images/solidYellowCurve_after.jpg
+[image5]: ./test_images/solidYellowCurve2_after.jpg
+[image6]: ./test_images/solidYellowLeft_after.jpg
+[image7]: ./test_images/whiteCarLaneSwitch_after.jpg
 
+![image3]
+![image4]
+![image5]
+![image6]
 
 ###2. Identify potential shortcomings with your current pipeline
 
