@@ -10,7 +10,6 @@
 
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
 
 
 [//]: # (Image References)
@@ -18,10 +17,6 @@ The goals / steps of this project are the following:
 [image1]: ./examples/grayscale.jpg "Grayscale"
 
 ---
-
-### Reflection
-
-###1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
 My pipeline consisted of 5 steps.
 * Convert the images to grayscale
@@ -48,12 +43,14 @@ If you'd like to include images to show how the pipeline works, here is how to i
 [image6]: ./test_images/solidYellowLeft_after.jpg
 [image7]: ./test_images/whiteCarLaneSwitch_after.jpg
 
+![image2]
 ![image3]
 ![image4]
 ![image5]
 ![image6]
+![image7]
 
-###2. Identify potential shortcomings with your current pipeline
+**2. Identify potential shortcomings with your current pipeline**
 
 
 Potential shortcomings of my approach:
@@ -62,7 +59,7 @@ Potential shortcomings of my approach:
 * The region of interest in Image masking is static and in some cases it failed 
 
 
-###3. Suggest possible improvements to your pipeline
+**3. Suggest possible improvements to your pipeline**
 
 A possible improvement would be to 
 * Use dynamic masking
