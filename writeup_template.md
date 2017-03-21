@@ -40,7 +40,7 @@ location where line interest X axis - X point.
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![solid white curve][./test_images/solidWhiteCurve_after.jpg]
+![solid white curve][image1]: ./test_images/solidWhiteCurve_after.jpg
 
 ###2. Identify potential shortcomings with your current pipeline
 
